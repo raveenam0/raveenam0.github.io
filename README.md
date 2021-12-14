@@ -1,7 +1,5 @@
 ## About Me
 
-<img src=/images/pfp.jpg width="170" height="220">
-
 Hello! My name is Raveena Mani and I'm in my fourth year at UC Davis as a computer science major. My main interests are machine learning and computer networks.
 
 ### Where you can reach me
