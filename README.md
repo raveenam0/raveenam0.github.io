@@ -2,7 +2,7 @@
 
 Hello! My name is Raveena Mani and I'm in my fourth year at UC Davis as a computer science major. My main interests are machine learning and computer networks.
 
-### Where you can reach me:
+### Where you can reach me
 - [Email](mailto:rmani@ucdavis.edu)
 - [LinkedIn](https://www.linkedin.com/in/raveena-mani/)
 
